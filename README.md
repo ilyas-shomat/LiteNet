@@ -1,3 +1,3 @@
 # LiteNet
 
-**LiteNet** – это библиотека, которая предоставляет упрощенную работу с сетью.
+**LiteNet** – lightweight library for work with REST requests.
